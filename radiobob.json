@@ -98,5 +98,19 @@
 		"icon_png": "https://raw.githubusercontent.com/blueIbird/radio.bob.json/main/pictures/90srock.png",
 		"new": false,
 		"stream_320": "http://streams.radiobob.de/bob-90srock/mp3-192/mediaplayer"
+	}, {
+		"prefix": "wacken",
+		"title": "Wacken",
+		"icon": "https://raw.githubusercontent.com/blueIbird/radio.bob.json/main/pictures/wacken.png",
+		"icon_png": "https://raw.githubusercontent.com/blueIbird/radio.bob.json/main/pictures/wacken.png",
+		"new": false,
+		"stream_320": "http://streams.radiobob.de/bob-wacken/mp3-192/mediaplayer"
+	}, {
+		"prefix": "rockhits",
+		"title": "Rock Hits",
+		"icon": "https://raw.githubusercontent.com/blueIbird/radio.bob.json/main/pictures/rockhits.png",
+		"icon_png": "https://raw.githubusercontent.com/blueIbird/radio.bob.json/main/pictures/rockhits.png",
+		"new": false,
+		"stream_320": "http://streams.radiobob.de/bob-rockhits/mp3-192/mediaplayer"
 	}]
 }
