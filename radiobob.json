@@ -112,5 +112,19 @@
 		"icon_png": "https://raw.githubusercontent.com/blueIbird/radio.bob.json/main/pictures/rockhits.png",
 		"new": false,
 		"stream_320": "http://streams.radiobob.de/bob-rockhits/mp3-192/mediaplayer"
+	}, {
+		"prefix": "bestofrock",
+		"title": "Best of Rock",
+		"icon": "https://raw.githubusercontent.com/blueIbird/radio.bob.json/main/pictures/bestofrock.png",
+		"icon_png": "https://raw.githubusercontent.com/blueIbird/radio.bob.json/main/pictures/bestofrock.png",
+		"new": false,
+		"stream_320": "http://streams.radiobob.de/bob-bestofrock/mp3-192/mediaplayer"
+	}, {
+		"prefix": "80srock",
+		"title": "80s Rock",
+		"icon": "https://raw.githubusercontent.com/blueIbird/radio.bob.json/main/pictures/80srock.png",
+		"icon_png": "https://raw.githubusercontent.com/blueIbird/radio.bob.json/main/pictures/80srock.png",
+		"new": false,
+		"stream_320": "http://streams.radiobob.de/bob-80srock/mp3-192/mediaplayer"
 	}]
 }
