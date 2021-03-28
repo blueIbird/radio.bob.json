@@ -1,4 +1,4 @@
-# radio.bob.json
+# Included Streams
 <p>Classic Rock</p>
 <p>Alternative Rock</p>
 <p>ACDC</p>
