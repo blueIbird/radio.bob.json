@@ -86,7 +86,7 @@
 		"stream": "http://streams.radiobob.de/metalcore/mp3-192/mediaplayer"
 	}, {
 		"prefix": "radiobobnational",
-		"title": "RADIO BOB! National",
+		"title": "RADIO BOB!",
 		"icon": "https://raw.githubusercontent.com/blueIbird/radio.bob.json/main/pictures/radiobobnational.png",
 		"icon_png": "https://raw.githubusercontent.com/blueIbird/radio.bob.json/main/pictures/radiobobnational.png",
 		"new": false,
