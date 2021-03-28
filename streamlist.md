@@ -1,0 +1,18 @@
+Classic Rock
+Alternative Rock
+ACDC
+Deutschrock
+Metal
+Hardrock
+Punk
+Mittelalter Rock
+Gothic
+Death Metal
+Metallica
+Metalcore
+RADIO BOB! National
+90s Rock
+Wacken
+Rock Hits
+Best of Rock
+80s Rock
