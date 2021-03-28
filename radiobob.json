@@ -125,6 +125,6 @@
 		"icon": "https://raw.githubusercontent.com/blueIbird/radio.bob.json/main/pictures/80srock.png",
 		"icon_png": "https://raw.githubusercontent.com/blueIbird/radio.bob.json/main/pictures/80srock.png",
 		"new": false,
-		"stream_320": "http://streams.radiobob.de/bob-80srock/mp3-192/mediaplayer"
+		"stream_320": "http://streams.radiobob.de/bob-80srock/aac-64/mediaplayer"
 	}]
 }
