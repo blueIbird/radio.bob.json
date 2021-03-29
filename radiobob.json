@@ -126,5 +126,12 @@
 		"icon_png": "https://raw.githubusercontent.com/blueIbird/radio.bob.json/main/pictures/80srock.png",
 		"new": false,
 		"stream": "http://streams.radiobob.de/bob-80srock/mp3-192/mediaplayer"
+	}, {
+		"prefix": "symphonicmetal",
+		"title": "Symphonic Metal",
+		"icon": "https://raw.githubusercontent.com/blueIbird/radio.bob.json/main/pictures/symphonicmetal.png",
+		"icon_png": "https://raw.githubusercontent.com/blueIbird/radio.bob.json/main/pictures/symphonicmetal.png",
+		"new": false,
+		"stream": "http://streams.radiobob.de/symphmetal/mp3-192/mediaplayer/"
 	}]
 }
