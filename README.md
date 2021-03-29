@@ -17,3 +17,4 @@
 <p>Rock Hits</p>
 <p>Best of Rock</p>
 <p>80s Rock</p>
+<p>Symphonic Metal</p>
